@@ -1,0 +1,5 @@
+# Example asset provenance
+
+`assets/size-free-example.png` was created using the built-in image-generation tool from the user's first photograph. `assets/original-reference.png` is the original supplied photograph. The generated example is bundled for preview only; runtime generation edits the original reference by default.
+
+Prompt: Use case: text-localization. Asset: bundled example photo for a Windows fabric composition label app. Edit target: supplied close-up photo of a light blue garment with a cream sewn label. Change ONLY the single size letter 'M': remove it cleanly, leaving unprinted cream fabric in its place. Keep the other exact text '100% Cotton' and 'Made in China' in precisely their original line positions, font style, perspective, spacing and dark ink. Preserve the original label dimensions, garment light blue color, stitching pattern and fine weave, folds, texture, camera angle, natural lighting and image framing. The output has no clothing size anywhere. No other added text, logo or watermark.

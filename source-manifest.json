@@ -1,0 +1,626 @@
+{
+  "format": 1,
+  "latest_source": "FabricLabelStudio-Source",
+  "files": [
+    {
+      "source": "assets/catalog.json",
+      "path": "assets/catalog.json",
+      "sha256": "99e0be192f86531a9cc2a30d32164821168d8d7177fe778712cbd5ecdb8965db"
+    },
+    {
+      "source": "assets/fabrics/black.png",
+      "path": "assets/fabrics/black.png",
+      "sha256": "669ea2b86db6203074b6b3472abc9d768a3903018469566ce3fbe0632bb04096"
+    },
+    {
+      "source": "assets/fabrics/burgundy.png",
+      "path": "assets/fabrics/burgundy.png",
+      "sha256": "0c1190b205c407354622981cec49b977da077ac116524b1a1313047713ace139"
+    },
+    {
+      "source": "assets/fabrics/green.png",
+      "path": "assets/fabrics/green.png",
+      "sha256": "150f567ba67fd2b85faf258c08907a38eb6ea109ae9f0735fceaf15be49c88f9"
+    },
+    {
+      "source": "assets/fabrics/grey.png",
+      "path": "assets/fabrics/grey.png",
+      "sha256": "571864a1f4b8fd2e69c7ccb3b91ab500391012672dcd5482e898f633188c1a41"
+    },
+    {
+      "source": "assets/fabrics/ivory.png",
+      "path": "assets/fabrics/ivory.png",
+      "sha256": "22ec2e121a6f09296745e6df988c513856de574fb33fad817dae24e7158eaf5e"
+    },
+    {
+      "source": "assets/fabrics/light_blue.png",
+      "path": "assets/fabrics/light_blue.png",
+      "sha256": "7fe58f7cdf76ae4bf53bc20d6271769c1e8e268125fa625316f1ae9c985a90e5"
+    },
+    {
+      "source": "assets/fabrics/navy.png",
+      "path": "assets/fabrics/navy.png",
+      "sha256": "3e29614c87021a9f8d77257dc9e8413e52c027284319780c75c991b41df6c3f5"
+    },
+    {
+      "source": "assets/fabrics/orange.png",
+      "path": "assets/fabrics/orange.png",
+      "sha256": "2db08ab50cb97cf0884dd51ee4f828f292def620f2e7b7b2e49d45f690bc8e34"
+    },
+    {
+      "source": "assets/fabrics/red.png",
+      "path": "assets/fabrics/red.png",
+      "sha256": "4dc98b9d9703d67ebc6c11a3cc00e9da39dd152de97d31f1b12291c41502bd04"
+    },
+    {
+      "source": "assets/fabrics/royal_blue.png",
+      "path": "assets/fabrics/royal_blue.png",
+      "sha256": "f663dc38dd4969bb1adbca40030ca0562f5f7e5e919215bd0cf38bf8f4848799"
+    },
+    {
+      "source": "assets/fabrics/teal.png",
+      "path": "assets/fabrics/teal.png",
+      "sha256": "782dc86d8f97bac13abdb3e3a74dd7343da0bd373f007d4af2e7ea2f5b3d2c9b"
+    },
+    {
+      "source": "assets/fabrics/white.png",
+      "path": "assets/fabrics/white.png",
+      "sha256": "f07324a82bd551f8e0c556df55afebe63dc59f70a0b431a2d7cc095783bfebe3"
+    },
+    {
+      "source": "assets/original-reference.png",
+      "path": "assets/original-reference.png",
+      "sha256": "fe7b75840b0d32a3cb9e0c60397fbcb5576fb76749d4ceb90c7406da5adbd623"
+    },
+    {
+      "source": "assets/size-free-example.png",
+      "path": "assets/size-free-example.png",
+      "sha256": "347a6f31046dcc6f7457a1cf69247612a137f24ae45b48f76e7f4a0a6b7e1b29"
+    },
+    {
+      "source": "BATCH-README.txt",
+      "path": "BATCH-README.txt",
+      "sha256": "b28b3f2075d5890d4b7d2219261eccda9da8e38dfb14484b1bbe841661ea403a"
+    },
+    {
+      "source": "batch_main.py",
+      "path": "batch_main.py",
+      "sha256": "365f4f25104f905261ed1706fb2a0d8c08c23c4547f8af9ef5bd8d9d9b262782"
+    },
+    {
+      "source": "build.ps1",
+      "path": "build.ps1",
+      "sha256": "9787d940108f3880487520f8c32a5ac88fb888a41a9483f2fa07a8503a4d9fa7"
+    },
+    {
+      "source": "build_batch.ps1",
+      "path": "build_batch.ps1",
+      "sha256": "50f58353efb4106b86a0f78777f535e4609a97757c579faf18d48024dc89f2ce"
+    },
+    {
+      "source": "docs/API.md",
+      "path": "docs/API.md",
+      "sha256": "d5f78bb7f9552f3dfdfe2dc968dd83f6ed2f119796609fdafbcc7855760fd475"
+    },
+    {
+      "source": "docs/ASSET_GENERATION.md",
+      "path": "docs/ASSET_GENERATION.md",
+      "sha256": "ad1aa170a5614a463db36f104fd9e2575c5eb01991be15fd9e95d79ae787c654"
+    },
+    {
+      "source": "docs/BATCH_REGENERATE.zh-CN.md",
+      "path": "docs/BATCH_REGENERATE.zh-CN.md",
+      "sha256": "e821439306ae633431a197cbe7c2ed0f55d1d6aa8a542e28c4ab56b119a1d609"
+    },
+    {
+      "source": "docs/CATALOG.md",
+      "path": "docs/CATALOG.md",
+      "sha256": "32644c6bb30a321f8b240e00e78defd0daff0bf0625c46189712eb17389effb6"
+    },
+    {
+      "source": "docs/FEATURES.zh-CN.md",
+      "path": "docs/FEATURES.zh-CN.md",
+      "sha256": "6198175a91bd6454f7c2ebe505fa12eebb70bf231c1d21d74532d7e25aee8a16"
+    },
+    {
+      "source": "docs/QUEUE_FIX.zh-CN.md",
+      "path": "docs/QUEUE_FIX.zh-CN.md",
+      "sha256": "572a3262a34004684cafc33859adffbc94662d5d1dfc9c449891b4dbbd558960"
+    },
+    {
+      "source": "docs/QUICK_START.zh-CN.md",
+      "path": "docs/QUICK_START.zh-CN.md",
+      "sha256": "bb1592ff8fad703b41387e140cf0f6a80f6904e48768ec019f5a2661a1beab2c"
+    },
+    {
+      "source": "FabricLabelBatchGenerator.spec",
+      "path": "FabricLabelBatchGenerator.spec",
+      "sha256": "1d476de2be276e42f2635c006de43b18ee56e0516e4246bf7eeaf104cdfc789c"
+    },
+    {
+      "source": "FabricLabelStudio.spec",
+      "path": "FabricLabelStudio.spec",
+      "sha256": "5bb0763fb272f0916001c1f19cfb62a811adaee383ca1d8d1392f9eea8683889"
+    },
+    {
+      "source": "LICENSE-NOTICES.md",
+      "path": "LICENSE-NOTICES.md",
+      "sha256": "0e60bf292e35a368416463b5095c4144549206e457b211a4415bf9db5a883b7d"
+    },
+    {
+      "source": "licenses/GPL-3.0.txt",
+      "path": "licenses/GPL-3.0.txt",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    {
+      "source": "licenses/LGPL-3.0.txt",
+      "path": "licenses/LGPL-3.0.txt",
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+    },
+    {
+      "source": "main.py",
+      "path": "main.py",
+      "sha256": "73099c026c1ba24652a9926bc2dd4d5a619f1139142d724d3f97340e8cbbc0b2"
+    },
+    {
+      "source": "README.md",
+      "path": "docs/FABRIC_LABEL_STUDIO_README.md",
+      "sha256": "7e805baf226f8d64947c57dfc225792d6208cee513a3837afc9a44f36fcdb97b"
+    },
+    {
+      "source": "requirements.txt",
+      "path": "requirements.txt",
+      "sha256": "778b0203f1bcd45f23aa452c86a72cd90786384447e45bd8b81a4dcbbdf714fb"
+    },
+    {
+      "source": "scripts/capture_batch_regeneration.py",
+      "path": "scripts/capture_batch_regeneration.py",
+      "sha256": "fbab5b8f82b73bee9544a69f2227344f473a3ebf334acaa09e781dabab888fe1"
+    },
+    {
+      "source": "scripts/capture_queue_recovery.py",
+      "path": "scripts/capture_queue_recovery.py",
+      "sha256": "d808ece54599708977d925382480b079e543975bade2e95e06a9445a4510de41"
+    },
+    {
+      "source": "scripts/capture_ui.py",
+      "path": "scripts/capture_ui.py",
+      "sha256": "5ee9e8baa3dab1b959391db89406c3f194c663ae6a08f3983072574a94470678"
+    },
+    {
+      "source": "scripts/extract_catalog.py",
+      "path": "scripts/extract_catalog.py",
+      "sha256": "25c561f0cb4cc8578a0e2c8b150862b7000cbc26bff2634b0e97c6825063f9f5"
+    },
+    {
+      "source": "scripts/package_release.py",
+      "path": "scripts/package_release.py",
+      "sha256": "26971e58bdca9be83419ccd5d49a7f994f1ae8f613f0f5d9bcc6f9e744282a9e"
+    },
+    {
+      "source": "scripts/verify_queue_timing.py",
+      "path": "scripts/verify_queue_timing.py",
+      "sha256": "7030c9a7d320ea48b09103b967c97de4f2fc669091061c77f127d4de4fbaca7c"
+    },
+    {
+      "source": "scripts/verify_release.py",
+      "path": "scripts/verify_release.py",
+      "sha256": "4dc880a19e362f699e610b4350d599cea298d29f2981b64db29eeef23cee920e"
+    },
+    {
+      "source": "studio/__init__.py",
+      "path": "studio/__init__.py",
+      "sha256": "ea85c3a83a1811eb22836e13b286ec02d0f820509960266bd0bc98e8a1da6a33"
+    },
+    {
+      "source": "studio/app.py",
+      "path": "studio/app.py",
+      "sha256": "d5e61e35bf41f38b4c1b6bc75069bb8be352e5ca65e02eb02d3c69be41e9f669"
+    },
+    {
+      "source": "studio/batch_generator.py",
+      "path": "studio/batch_generator.py",
+      "sha256": "3e247dda62318250814afac8719c9f8b4b9b3992ff0208683cab5b4194edcadf"
+    },
+    {
+      "source": "studio/domain.py",
+      "path": "studio/domain.py",
+      "sha256": "070491f574a48825054b14ac28a2c87812d6ffee7251080371a191de9271da80"
+    },
+    {
+      "source": "studio/providers.py",
+      "path": "studio/providers.py",
+      "sha256": "da03fef39fceabc667f10d3b0451ba7f583a1d8c0df14f35dc9c6c05e9525120"
+    },
+    {
+      "source": "studio/storage.py",
+      "path": "studio/storage.py",
+      "sha256": "5a196b921f49804920476ea18578cd244e8424569fc0d0981823c3f1585dbec2"
+    },
+    {
+      "source": "studio/theme.py",
+      "path": "studio/theme.py",
+      "sha256": "613319639c5691e986403efd3439b790bdda10cab3ee093ef2c1678fdc8aeedb"
+    },
+    {
+      "source": "tests/test_app.py",
+      "path": "tests/test_app.py",
+      "sha256": "9ecdd78b7cfa44402d23b597293654393dcc73436781696cab4eca06f0fa4e76"
+    },
+    {
+      "source": "tests/test_batch_generator.py",
+      "path": "tests/test_batch_generator.py",
+      "sha256": "b014617abdc66238072b2c1fd0932249c548d19968d65671d27f5a9d2e37540b"
+    },
+    {
+      "source": "tests/test_domain_storage.py",
+      "path": "tests/test_domain_storage.py",
+      "sha256": "1b99507b3734656ae95262623ddbf1db7390dc329c692b6c128a9287f8ab5133"
+    },
+    {
+      "source": "tests/test_providers.py",
+      "path": "tests/test_providers.py",
+      "sha256": "ff6b97810d7f34f4f381eb62684392646548263ff36f02e14b8570a122e1b490"
+    }
+  ],
+  "snapshots": [
+    {
+      "archive": "FabricLabelStudio-Source.zip",
+      "sha256": "9ee177dc5fb65b316da421dc9d6967357e0b9284094eaddefc572f3c538d8d00",
+      "path": "archive/original",
+      "files": [
+        {
+          "path": "archive/original/studio/__init__.py",
+          "sha256": "b5b158fa6496a79567387eb8def27ff5ee1ef6b321978c1ad5931fb3cbeb1de3"
+        },
+        {
+          "path": "archive/original/studio/app.py",
+          "sha256": "9d09eb0b437e01390496555fbb7fe3c35cc15bf08c6e914821a59e7d1445b20d"
+        },
+        {
+          "path": "archive/original/studio/domain.py",
+          "sha256": "b1ec8ffeb12091986306e88eb1137aed1d178dcd77e279805e366c2497222e80"
+        },
+        {
+          "path": "archive/original/studio/providers.py",
+          "sha256": "3849d05963678de178bbaa11d0d76f07bfb24120859bbe0d0b05f146615664de"
+        },
+        {
+          "path": "archive/original/studio/storage.py",
+          "sha256": "5a196b921f49804920476ea18578cd244e8424569fc0d0981823c3f1585dbec2"
+        },
+        {
+          "path": "archive/original/studio/theme.py",
+          "sha256": "613319639c5691e986403efd3439b790bdda10cab3ee093ef2c1678fdc8aeedb"
+        },
+        {
+          "path": "archive/original/assets/catalog.json",
+          "sha256": "99e0be192f86531a9cc2a30d32164821168d8d7177fe778712cbd5ecdb8965db"
+        },
+        {
+          "path": "archive/original/assets/fabrics/black.png",
+          "sha256": "669ea2b86db6203074b6b3472abc9d768a3903018469566ce3fbe0632bb04096"
+        },
+        {
+          "path": "archive/original/assets/fabrics/burgundy.png",
+          "sha256": "0c1190b205c407354622981cec49b977da077ac116524b1a1313047713ace139"
+        },
+        {
+          "path": "archive/original/assets/fabrics/green.png",
+          "sha256": "150f567ba67fd2b85faf258c08907a38eb6ea109ae9f0735fceaf15be49c88f9"
+        },
+        {
+          "path": "archive/original/assets/fabrics/grey.png",
+          "sha256": "571864a1f4b8fd2e69c7ccb3b91ab500391012672dcd5482e898f633188c1a41"
+        },
+        {
+          "path": "archive/original/assets/fabrics/ivory.png",
+          "sha256": "22ec2e121a6f09296745e6df988c513856de574fb33fad817dae24e7158eaf5e"
+        },
+        {
+          "path": "archive/original/assets/fabrics/light_blue.png",
+          "sha256": "7fe58f7cdf76ae4bf53bc20d6271769c1e8e268125fa625316f1ae9c985a90e5"
+        },
+        {
+          "path": "archive/original/assets/fabrics/navy.png",
+          "sha256": "3e29614c87021a9f8d77257dc9e8413e52c027284319780c75c991b41df6c3f5"
+        },
+        {
+          "path": "archive/original/assets/fabrics/orange.png",
+          "sha256": "2db08ab50cb97cf0884dd51ee4f828f292def620f2e7b7b2e49d45f690bc8e34"
+        },
+        {
+          "path": "archive/original/assets/fabrics/red.png",
+          "sha256": "4dc98b9d9703d67ebc6c11a3cc00e9da39dd152de97d31f1b12291c41502bd04"
+        },
+        {
+          "path": "archive/original/assets/fabrics/royal_blue.png",
+          "sha256": "f663dc38dd4969bb1adbca40030ca0562f5f7e5e919215bd0cf38bf8f4848799"
+        },
+        {
+          "path": "archive/original/assets/fabrics/teal.png",
+          "sha256": "782dc86d8f97bac13abdb3e3a74dd7343da0bd373f007d4af2e7ea2f5b3d2c9b"
+        },
+        {
+          "path": "archive/original/assets/fabrics/white.png",
+          "sha256": "f07324a82bd551f8e0c556df55afebe63dc59f70a0b431a2d7cc095783bfebe3"
+        },
+        {
+          "path": "archive/original/assets/original-reference.png",
+          "sha256": "fe7b75840b0d32a3cb9e0c60397fbcb5576fb76749d4ceb90c7406da5adbd623"
+        },
+        {
+          "path": "archive/original/assets/size-free-example.png",
+          "sha256": "347a6f31046dcc6f7457a1cf69247612a137f24ae45b48f76e7f4a0a6b7e1b29"
+        },
+        {
+          "path": "archive/original/docs/API.md",
+          "sha256": "28e1276565cbed971e10c404f820ea02ad3675eca908ff2cd87d2ec763e171c8"
+        },
+        {
+          "path": "archive/original/docs/ASSET_GENERATION.md",
+          "sha256": "ad1aa170a5614a463db36f104fd9e2575c5eb01991be15fd9e95d79ae787c654"
+        },
+        {
+          "path": "archive/original/docs/CATALOG.md",
+          "sha256": "32644c6bb30a321f8b240e00e78defd0daff0bf0625c46189712eb17389effb6"
+        },
+        {
+          "path": "archive/original/docs/QUICK_START.zh-CN.md",
+          "sha256": "7ca0d32a3a5a35aa40848bf9a566cedbe20c7bad38b4a1522c2fdc7a361dc408"
+        },
+        {
+          "path": "archive/original/scripts/capture_ui.py",
+          "sha256": "5ee9e8baa3dab1b959391db89406c3f194c663ae6a08f3983072574a94470678"
+        },
+        {
+          "path": "archive/original/scripts/extract_catalog.py",
+          "sha256": "25c561f0cb4cc8578a0e2c8b150862b7000cbc26bff2634b0e97c6825063f9f5"
+        },
+        {
+          "path": "archive/original/scripts/package_release.py",
+          "sha256": "26971e58bdca9be83419ccd5d49a7f994f1ae8f613f0f5d9bcc6f9e744282a9e"
+        },
+        {
+          "path": "archive/original/scripts/verify_release.py",
+          "sha256": "4dc880a19e362f699e610b4350d599cea298d29f2981b64db29eeef23cee920e"
+        },
+        {
+          "path": "archive/original/tests/test_app.py",
+          "sha256": "4de84e67d6d5e85ad046b664ab321ec877b71bc83cf30e1f8a71f51bdb1c677f"
+        },
+        {
+          "path": "archive/original/tests/test_domain_storage.py",
+          "sha256": "9ce8b0bcfbea57fbf95b1775e36513b7ff846dff8fb648619f9d9839013ff83b"
+        },
+        {
+          "path": "archive/original/tests/test_providers.py",
+          "sha256": "f2ca5eaa9ea889882dc77fe855fb3a2b564817dd98b2b2fbd9dbc05fdb701774"
+        },
+        {
+          "path": "archive/original/licenses/GPL-3.0.txt",
+          "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+        },
+        {
+          "path": "archive/original/licenses/LGPL-3.0.txt",
+          "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+        },
+        {
+          "path": "archive/original/main.py",
+          "sha256": "73099c026c1ba24652a9926bc2dd4d5a619f1139142d724d3f97340e8cbbc0b2"
+        },
+        {
+          "path": "archive/original/requirements.txt",
+          "sha256": "778b0203f1bcd45f23aa452c86a72cd90786384447e45bd8b81a4dcbbdf714fb"
+        },
+        {
+          "path": "archive/original/FabricLabelStudio.spec",
+          "sha256": "5bb0763fb272f0916001c1f19cfb62a811adaee383ca1d8d1392f9eea8683889"
+        },
+        {
+          "path": "archive/original/build.ps1",
+          "sha256": "9787d940108f3880487520f8c32a5ac88fb888a41a9483f2fa07a8503a4d9fa7"
+        },
+        {
+          "path": "archive/original/README.md",
+          "sha256": "a97aecf6621e914b3316ea302bd8867b99c649776c105f6fd982ceaa3ee0649c"
+        },
+        {
+          "path": "archive/original/LICENSE-NOTICES.md",
+          "sha256": "0e60bf292e35a368416463b5095c4144549206e457b211a4415bf9db5a883b7d"
+        }
+      ]
+    },
+    {
+      "archive": "FabricLabelStudio-v1.3-Source.zip",
+      "sha256": "6c7f5ceb681b624171d4fbe4b066c308dce10d2413dcd1e065d87f19d68ea634",
+      "path": "archive/studio-v1.3",
+      "files": [
+        {
+          "path": "archive/studio-v1.3/studio/__init__.py",
+          "sha256": "ea85c3a83a1811eb22836e13b286ec02d0f820509960266bd0bc98e8a1da6a33"
+        },
+        {
+          "path": "archive/studio-v1.3/studio/app.py",
+          "sha256": "d5e61e35bf41f38b4c1b6bc75069bb8be352e5ca65e02eb02d3c69be41e9f669"
+        },
+        {
+          "path": "archive/studio-v1.3/studio/domain.py",
+          "sha256": "b1ec8ffeb12091986306e88eb1137aed1d178dcd77e279805e366c2497222e80"
+        },
+        {
+          "path": "archive/studio-v1.3/studio/providers.py",
+          "sha256": "da03fef39fceabc667f10d3b0451ba7f583a1d8c0df14f35dc9c6c05e9525120"
+        },
+        {
+          "path": "archive/studio-v1.3/studio/storage.py",
+          "sha256": "5a196b921f49804920476ea18578cd244e8424569fc0d0981823c3f1585dbec2"
+        },
+        {
+          "path": "archive/studio-v1.3/studio/theme.py",
+          "sha256": "613319639c5691e986403efd3439b790bdda10cab3ee093ef2c1678fdc8aeedb"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/catalog.json",
+          "sha256": "99e0be192f86531a9cc2a30d32164821168d8d7177fe778712cbd5ecdb8965db"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/black.png",
+          "sha256": "669ea2b86db6203074b6b3472abc9d768a3903018469566ce3fbe0632bb04096"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/burgundy.png",
+          "sha256": "0c1190b205c407354622981cec49b977da077ac116524b1a1313047713ace139"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/green.png",
+          "sha256": "150f567ba67fd2b85faf258c08907a38eb6ea109ae9f0735fceaf15be49c88f9"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/grey.png",
+          "sha256": "571864a1f4b8fd2e69c7ccb3b91ab500391012672dcd5482e898f633188c1a41"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/ivory.png",
+          "sha256": "22ec2e121a6f09296745e6df988c513856de574fb33fad817dae24e7158eaf5e"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/light_blue.png",
+          "sha256": "7fe58f7cdf76ae4bf53bc20d6271769c1e8e268125fa625316f1ae9c985a90e5"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/navy.png",
+          "sha256": "3e29614c87021a9f8d77257dc9e8413e52c027284319780c75c991b41df6c3f5"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/orange.png",
+          "sha256": "2db08ab50cb97cf0884dd51ee4f828f292def620f2e7b7b2e49d45f690bc8e34"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/red.png",
+          "sha256": "4dc98b9d9703d67ebc6c11a3cc00e9da39dd152de97d31f1b12291c41502bd04"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/royal_blue.png",
+          "sha256": "f663dc38dd4969bb1adbca40030ca0562f5f7e5e919215bd0cf38bf8f4848799"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/teal.png",
+          "sha256": "782dc86d8f97bac13abdb3e3a74dd7343da0bd373f007d4af2e7ea2f5b3d2c9b"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/fabrics/white.png",
+          "sha256": "f07324a82bd551f8e0c556df55afebe63dc59f70a0b431a2d7cc095783bfebe3"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/original-reference.png",
+          "sha256": "fe7b75840b0d32a3cb9e0c60397fbcb5576fb76749d4ceb90c7406da5adbd623"
+        },
+        {
+          "path": "archive/studio-v1.3/assets/size-free-example.png",
+          "sha256": "347a6f31046dcc6f7457a1cf69247612a137f24ae45b48f76e7f4a0a6b7e1b29"
+        },
+        {
+          "path": "archive/studio-v1.3/docs/API.md",
+          "sha256": "d5f78bb7f9552f3dfdfe2dc968dd83f6ed2f119796609fdafbcc7855760fd475"
+        },
+        {
+          "path": "archive/studio-v1.3/docs/ASSET_GENERATION.md",
+          "sha256": "ad1aa170a5614a463db36f104fd9e2575c5eb01991be15fd9e95d79ae787c654"
+        },
+        {
+          "path": "archive/studio-v1.3/docs/BATCH_REGENERATE.zh-CN.md",
+          "sha256": "e821439306ae633431a197cbe7c2ed0f55d1d6aa8a542e28c4ab56b119a1d609"
+        },
+        {
+          "path": "archive/studio-v1.3/docs/CATALOG.md",
+          "sha256": "32644c6bb30a321f8b240e00e78defd0daff0bf0625c46189712eb17389effb6"
+        },
+        {
+          "path": "archive/studio-v1.3/docs/FEATURES.zh-CN.md",
+          "sha256": "6198175a91bd6454f7c2ebe505fa12eebb70bf231c1d21d74532d7e25aee8a16"
+        },
+        {
+          "path": "archive/studio-v1.3/docs/QUEUE_FIX.zh-CN.md",
+          "sha256": "572a3262a34004684cafc33859adffbc94662d5d1dfc9c449891b4dbbd558960"
+        },
+        {
+          "path": "archive/studio-v1.3/docs/QUICK_START.zh-CN.md",
+          "sha256": "bb1592ff8fad703b41387e140cf0f6a80f6904e48768ec019f5a2661a1beab2c"
+        },
+        {
+          "path": "archive/studio-v1.3/scripts/capture_batch_regeneration.py",
+          "sha256": "fbab5b8f82b73bee9544a69f2227344f473a3ebf334acaa09e781dabab888fe1"
+        },
+        {
+          "path": "archive/studio-v1.3/scripts/capture_queue_recovery.py",
+          "sha256": "d808ece54599708977d925382480b079e543975bade2e95e06a9445a4510de41"
+        },
+        {
+          "path": "archive/studio-v1.3/scripts/capture_ui.py",
+          "sha256": "5ee9e8baa3dab1b959391db89406c3f194c663ae6a08f3983072574a94470678"
+        },
+        {
+          "path": "archive/studio-v1.3/scripts/extract_catalog.py",
+          "sha256": "25c561f0cb4cc8578a0e2c8b150862b7000cbc26bff2634b0e97c6825063f9f5"
+        },
+        {
+          "path": "archive/studio-v1.3/scripts/package_release.py",
+          "sha256": "26971e58bdca9be83419ccd5d49a7f994f1ae8f613f0f5d9bcc6f9e744282a9e"
+        },
+        {
+          "path": "archive/studio-v1.3/scripts/verify_queue_timing.py",
+          "sha256": "7030c9a7d320ea48b09103b967c97de4f2fc669091061c77f127d4de4fbaca7c"
+        },
+        {
+          "path": "archive/studio-v1.3/scripts/verify_release.py",
+          "sha256": "4dc880a19e362f699e610b4350d599cea298d29f2981b64db29eeef23cee920e"
+        },
+        {
+          "path": "archive/studio-v1.3/tests/test_app.py",
+          "sha256": "9ecdd78b7cfa44402d23b597293654393dcc73436781696cab4eca06f0fa4e76"
+        },
+        {
+          "path": "archive/studio-v1.3/tests/test_domain_storage.py",
+          "sha256": "9ce8b0bcfbea57fbf95b1775e36513b7ff846dff8fb648619f9d9839013ff83b"
+        },
+        {
+          "path": "archive/studio-v1.3/tests/test_providers.py",
+          "sha256": "ff6b97810d7f34f4f381eb62684392646548263ff36f02e14b8570a122e1b490"
+        },
+        {
+          "path": "archive/studio-v1.3/licenses/GPL-3.0.txt",
+          "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+        },
+        {
+          "path": "archive/studio-v1.3/licenses/LGPL-3.0.txt",
+          "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+        },
+        {
+          "path": "archive/studio-v1.3/main.py",
+          "sha256": "73099c026c1ba24652a9926bc2dd4d5a619f1139142d724d3f97340e8cbbc0b2"
+        },
+        {
+          "path": "archive/studio-v1.3/requirements.txt",
+          "sha256": "778b0203f1bcd45f23aa452c86a72cd90786384447e45bd8b81a4dcbbdf714fb"
+        },
+        {
+          "path": "archive/studio-v1.3/FabricLabelStudio.spec",
+          "sha256": "5bb0763fb272f0916001c1f19cfb62a811adaee383ca1d8d1392f9eea8683889"
+        },
+        {
+          "path": "archive/studio-v1.3/build.ps1",
+          "sha256": "9787d940108f3880487520f8c32a5ac88fb888a41a9483f2fa07a8503a4d9fa7"
+        },
+        {
+          "path": "archive/studio-v1.3/README.md",
+          "sha256": "7e805baf226f8d64947c57dfc225792d6208cee513a3837afc9a44f36fcdb97b"
+        },
+        {
+          "path": "archive/studio-v1.3/LICENSE-NOTICES.md",
+          "sha256": "0e60bf292e35a368416463b5095c4144549206e457b211a4415bf9db5a883b7d"
+        }
+      ]
+    }
+  ]
+}

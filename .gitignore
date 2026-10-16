@@ -1,0 +1,47 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Generated builds and releases
+build/
+dist/
+release/
+.wheels/
+*.exe
+*.dll
+*.pyd
+
+# Local credentials, configuration, and job data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+settings.json
+jobs.json
+batch-progress.json
+failed-tasks.json
+import-errors.json
+data/
+output/
+outputs/
+exports/
+*.xlsx
+*.xls
+
+# Local editor and agent files
+.idea/
+.vscode/
+.codex-work/
+.planning/
+node_modules/
+Thumbs.db
+.DS_Store

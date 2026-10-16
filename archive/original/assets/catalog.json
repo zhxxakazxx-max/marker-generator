@@ -1,0 +1,2082 @@
+{
+  "compositions": [
+    {
+      "source": "Sheet1!C4",
+      "label": "腈纶40%棉60%",
+      "parts": [
+        {
+          "name": "Acrylic",
+          "percent": 40.0
+        },
+        {
+          "name": "Cotton",
+          "percent": 60.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C5",
+      "label": "腈纶47%棉35%氨纶9%羊毛9%",
+      "parts": [
+        {
+          "name": "Acrylic",
+          "percent": 47.0
+        },
+        {
+          "name": "Cotton",
+          "percent": 35.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 9.0
+        },
+        {
+          "name": "Wool",
+          "percent": 9.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C6",
+      "label": "腈纶55%棉45%",
+      "parts": [
+        {
+          "name": "Acrylic",
+          "percent": 55.0
+        },
+        {
+          "name": "Cotton",
+          "percent": 45.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C7",
+      "label": "棉10%聚酯纤维90%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 10.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 90.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C8",
+      "label": "棉10%亚麻30%聚酯纤维30%粘纤30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 10.0
+        },
+        {
+          "name": "Linen",
+          "percent": 30.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C9",
+      "label": "棉10%亚麻40%聚酯纤维10%粘纤40%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 10.0
+        },
+        {
+          "name": "Linen",
+          "percent": 40.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 10.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 40.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C10",
+      "label": "棉10%亚麻90%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 10.0
+        },
+        {
+          "name": "Linen",
+          "percent": 90.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C11",
+      "label": "棉100%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 100.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C12",
+      "label": "棉15%聚酯纤维85%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 15.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 85.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C13",
+      "label": "棉16%氨纶4%聚酯纤维80%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 16.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 4.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 80.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C14",
+      "label": "棉17%氨纶3%锦纶80%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 17.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 3.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 80.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C15",
+      "label": "棉19%聚酯纤维81%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 19.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 81.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C16",
+      "label": "棉20%氨纶5%聚酯纤维75%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 20.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 75.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C17",
+      "label": "棉20%锦纶80%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 20.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 80.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C18",
+      "label": "棉20%聚酯纤维80%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 20.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 80.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C19",
+      "label": "棉25%氨纶10%聚酯纤维65%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 25.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 10.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 65.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C20",
+      "label": "棉25%氨纶5%聚酯纤维70%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 25.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 70.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C21",
+      "label": "棉25%亚麻5%聚酯纤维70%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 25.0
+        },
+        {
+          "name": "Linen",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 70.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C22",
+      "label": "棉30%氨纶10%聚酯纤维60%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 30.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 10.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 60.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C23",
+      "label": "棉30%氨纶15%聚酯纤维55%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 30.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 15.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 55.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C24",
+      "label": "棉30%氨纶5%聚酯纤维65%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 30.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 65.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C25",
+      "label": "棉30%聚酯纤维70%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 30.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 70.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C26",
+      "label": "棉30%莱赛尔70%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 30.0
+        },
+        {
+          "name": "Lyocell",
+          "percent": 70.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C27",
+      "label": "棉30%亚麻30%聚酯纤维20%粘纤20%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 30.0
+        },
+        {
+          "name": "Linen",
+          "percent": 30.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 20.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 20.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C28",
+      "label": "棉30%亚麻70%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 30.0
+        },
+        {
+          "name": "Linen",
+          "percent": 70.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C29",
+      "label": "棉34%氨纶4%聚酯纤维62%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 34.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 4.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 62.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C30",
+      "label": "棉35%氨纶5%聚酯纤维60%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 35.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 60.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C31",
+      "label": "棉35%聚酯纤维65%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 35.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 65.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C32",
+      "label": "棉40%锦纶60%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 40.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 60.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C33",
+      "label": "棉40%聚酯纤维60%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 40.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 60.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C34",
+      "label": "棉40%亚麻60%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 40.0
+        },
+        {
+          "name": "Linen",
+          "percent": 60.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C35",
+      "label": "棉42%聚酯纤维58%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 42.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 58.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C36",
+      "label": "棉45%氨纶3%聚酯纤维52%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 45.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 3.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 52.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C37",
+      "label": "棉45%氨纶5%聚酯纤维50%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 45.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 50.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C38",
+      "label": "棉45%亚麻55%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 45.0
+        },
+        {
+          "name": "Linen",
+          "percent": 55.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C39",
+      "label": "棉46%莱赛尔46%氨纶8%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 46.0
+        },
+        {
+          "name": "Lyocell",
+          "percent": 46.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 8.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C40",
+      "label": "棉46.5%氨纶7%莫代尔46.5%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 46.5
+        },
+        {
+          "name": "Elastane",
+          "percent": 7.0
+        },
+        {
+          "name": "Modal",
+          "percent": 46.5
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C41",
+      "label": "棉47%氨纶7%聚酯纤维46%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 47.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 7.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 46.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C42",
+      "label": "棉47%聚酯纤维53%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 47.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 53.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C43",
+      "label": "棉49%氨纶45%聚酯纤维6%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 49.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 45.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 6.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C44",
+      "label": "棉49%氨纶6%聚酯纤维45%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 49.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 6.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 45.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C45",
+      "label": "棉5%氨纶30%聚酯纤维65%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 5.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 30.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 65.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C46",
+      "label": "棉5%氨纶35%聚酯纤维60%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 5.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 35.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 60.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C47",
+      "label": "棉5%聚酯纤维95%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 95.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C49",
+      "label": "棉50%氨纶1%聚酯纤维49%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 50.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 1.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 49.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C50",
+      "label": "棉50%锦纶20%聚酯纤维30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 50.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 20.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C51",
+      "label": "棉50%聚酯纤维50%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 50.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 50.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C52",
+      "label": "棉50%亚麻50%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 50.0
+        },
+        {
+          "name": "Linen",
+          "percent": 50.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C53",
+      "label": "棉52%聚酯纤维48%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 52.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 48.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C54",
+      "label": "棉53.7%氨纶15.4%聚酯纤维30.9%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 53.7
+        },
+        {
+          "name": "Elastane",
+          "percent": 15.4
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.9
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C55",
+      "label": "棉54%氨纶3%亚麻1%聚酯纤维28%粘纤6%莱赛尔8%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 54.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 3.0
+        },
+        {
+          "name": "Linen",
+          "percent": 1.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 28.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 6.0
+        },
+        {
+          "name": "Lyocell",
+          "percent": 8.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C56",
+      "label": "棉54.9%聚酯纤维45.1%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 54.9
+        },
+        {
+          "name": "Polyester",
+          "percent": 45.1
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C57",
+      "label": "棉55%聚酯纤维45%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 55.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 45.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C58",
+      "label": "棉55%亚麻45%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 55.0
+        },
+        {
+          "name": "Linen",
+          "percent": 45.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C59",
+      "label": "棉56%聚酯纤维44%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 56.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 44.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C60",
+      "label": "棉56.1%聚酯纤维43.9%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 56.1
+        },
+        {
+          "name": "Polyester",
+          "percent": 43.9
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C61",
+      "label": "棉58%聚酯纤维42%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 58.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 42.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C62",
+      "label": "棉59%氨纶11%聚酯纤维30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 59.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 11.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C63",
+      "label": "棉60%氨纶10%聚酯纤维30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 60.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 10.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C64",
+      "label": "棉60%氨纶4%聚酯纤维36%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 60.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 4.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 36.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C65",
+      "label": "棉60%锦纶40%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 60.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 40.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C66",
+      "label": "棉60%聚酯纤维40%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 60.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 40.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C67",
+      "label": "棉60%亚麻40%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 60.0
+        },
+        {
+          "name": "Linen",
+          "percent": 40.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C68",
+      "label": "棉63%氨纶2%聚酯纤维35%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 63.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 35.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C69",
+      "label": "棉64%聚酯纤维36%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 64.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 36.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C70",
+      "label": "棉65%氨纶25%聚酯纤维10%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 65.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 25.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 10.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C71",
+      "label": "棉65%氨纶5%聚酯纤维30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 65.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C72",
+      "label": "棉65%纯金属35%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 65.0
+        },
+        {
+          "name": "Metallic fiber",
+          "percent": 35.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C73",
+      "label": "棉65%聚酯纤维35%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 65.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 35.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C74",
+      "label": "棉67%氨纶1%聚酯纤维32%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 67.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 1.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 32.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C75",
+      "label": "棉68%氨纶18%聚酯纤维14%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 68.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 18.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 14.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C76",
+      "label": "棉68%氨纶2%聚酯纤维30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 68.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C77",
+      "label": "棉68.2%氨纶6.4%聚酯纤维25.4%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 68.2
+        },
+        {
+          "name": "Elastane",
+          "percent": 6.4
+        },
+        {
+          "name": "Polyester",
+          "percent": 25.4
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C78",
+      "label": "棉69%莫代尔2%聚酯纤维15%粘纤14%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 69.0
+        },
+        {
+          "name": "Modal",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 15.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 14.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C79",
+      "label": "棉70%氨纶2%聚酯纤维28%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 70.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 28.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C80",
+      "label": "棉70%氨纶3%聚酯纤维27%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 70.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 3.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 27.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C81",
+      "label": "棉70%氨纶30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 70.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C82",
+      "label": "棉70%氨纶5%聚酯纤维25%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 70.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 25.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C83",
+      "label": "棉70%聚酯纤维30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 70.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C84",
+      "label": "棉70%亚麻30%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 70.0
+        },
+        {
+          "name": "Linen",
+          "percent": 30.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C85",
+      "label": "棉71%氨纶2%聚酯纤维23%莱赛尔4%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 71.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 23.0
+        },
+        {
+          "name": "Lyocell",
+          "percent": 4.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C86",
+      "label": "棉71%氨纶2%聚酯纤维27%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 71.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 27.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C87",
+      "label": "棉71%聚酯纤维29%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 71.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 29.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C88",
+      "label": "棉73%氨纶2%聚酯纤维25%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 73.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 25.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C89",
+      "label": "棉73%聚酯纤维27%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 73.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 27.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C90",
+      "label": "棉74%氨纶2%聚酯纤维24%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 74.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 24.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C91",
+      "label": "棉75%锦纶25%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 75.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 25.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C92",
+      "label": "棉75%聚酯纤维25%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 75.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 25.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C93",
+      "label": "棉76%氨纶1.5%聚酯纤维22.5%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 76.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 1.5
+        },
+        {
+          "name": "Polyester",
+          "percent": 22.5
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C94",
+      "label": "棉76%氨纶11%聚酯纤维13%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 76.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 11.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 13.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C95",
+      "label": "棉76%氨纶2%聚酯纤维22%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 76.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 22.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C96",
+      "label": "棉76%聚酯纤维24%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 76.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 24.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C97",
+      "label": "棉8%聚酯纤维92%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 8.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 92.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C98",
+      "label": "棉80%氨纶20%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 80.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 20.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C99",
+      "label": "棉80%聚酯纤维20%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 80.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 20.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C100",
+      "label": "棉80%亚麻20%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 80.0
+        },
+        {
+          "name": "Linen",
+          "percent": 20.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C101",
+      "label": "棉82%聚酯纤维18%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 82.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 18.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C102",
+      "label": "棉84.2%聚酯纤维15.8%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 84.2
+        },
+        {
+          "name": "Polyester",
+          "percent": 15.8
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C103",
+      "label": "棉85%聚酯纤维15%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 85.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 15.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C104",
+      "label": "棉85%亚麻15%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 85.0
+        },
+        {
+          "name": "Linen",
+          "percent": 15.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C105",
+      "label": "棉87%聚酯纤维13%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 87.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 13.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C106",
+      "label": "棉90%氨纶10%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 90.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 10.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C108",
+      "label": "棉90%氨纶2%聚酯纤维8%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 90.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 8.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C109",
+      "label": "棉90%聚酯纤维10%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 90.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 10.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C110",
+      "label": "棉90%亚麻10%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 90.0
+        },
+        {
+          "name": "Linen",
+          "percent": 10.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C111",
+      "label": "棉91%聚酯纤维9%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 91.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 9.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C112",
+      "label": "棉92%氨纶2%聚酯纤维6%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 92.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 2.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 6.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C113",
+      "label": "棉93%氨纶7%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 93.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 7.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C114",
+      "label": "棉95%氨纶5%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 95.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 5.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C115",
+      "label": "棉95%聚酯纤维5%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 95.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 5.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C116",
+      "label": "棉95%亚麻5%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 95.0
+        },
+        {
+          "name": "Linen",
+          "percent": 5.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C117",
+      "label": "棉96%氨纶4%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 96.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 4.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C118",
+      "label": "棉97%氨纶3%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 97.0
+        },
+        {
+          "name": "Elastane",
+          "percent": 3.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C119",
+      "label": "棉97%聚酯纤维3%",
+      "parts": [
+        {
+          "name": "Cotton",
+          "percent": 97.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 3.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C120",
+      "label": "莫代尔29%锦纶14%聚酯纤维28%粘纤29%",
+      "parts": [
+        {
+          "name": "Modal",
+          "percent": 29.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 14.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 28.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 29.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C121",
+      "label": "亚麻30%聚酯纤维20%粘纤50%",
+      "parts": [
+        {
+          "name": "Linen",
+          "percent": 30.0
+        },
+        {
+          "name": "Polyester",
+          "percent": 20.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 50.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C122",
+      "label": "亚麻30%粘纤70%",
+      "parts": [
+        {
+          "name": "Linen",
+          "percent": 30.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 70.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C123",
+      "label": "亚麻34%粘纤66%",
+      "parts": [
+        {
+          "name": "Linen",
+          "percent": 34.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 66.0
+        }
+      ]
+    },
+    {
+      "source": "Sheet1!C124",
+      "label": "亚麻6%锦纶9%粘纤38%莱赛尔47%",
+      "parts": [
+        {
+          "name": "Linen",
+          "percent": 6.0
+        },
+        {
+          "name": "Nylon",
+          "percent": 9.0
+        },
+        {
+          "name": "Viscose",
+          "percent": 38.0
+        },
+        {
+          "name": "Lyocell",
+          "percent": 47.0
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "row": 48,
+      "source": "Sheet1!C48",
+      "value": "棉5%聚酯纤维95%PU皮革",
+      "error": "Unrecognized composition text near 'PU皮革'. Use a fibre name with a percentage."
+    },
+    {
+      "row": 107,
+      "source": "Sheet1!C107",
+      "value": "棉90%氨纶10%PU皮革",
+      "error": "Unrecognized composition text near 'PU皮革'. Use a fibre name with a percentage."
+    }
+  ],
+  "colors": [
+    {
+      "id": "light_blue",
+      "name": "浅蓝 / Light blue",
+      "hex": "#AABED0",
+      "reference": "fabrics/light_blue.png",
+      "source": "Sheet1!D11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_DF5FEA9C788945B1ADD014444D76FAB2",
+      "workbook_media": "xl/media/image1.png",
+      "sha256": "7fe58f7cdf76ae4bf53bc20d6271769c1e8e268125fa625316f1ae9c985a90e5"
+    },
+    {
+      "id": "royal_blue",
+      "name": "宝蓝 / Royal blue",
+      "hex": "#354E97",
+      "reference": "fabrics/royal_blue.png",
+      "source": "Sheet1!E11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_BCBA7BB536C4447C988B6445C35AB615",
+      "workbook_media": "xl/media/image3.png",
+      "sha256": "f663dc38dd4969bb1adbca40030ca0562f5f7e5e919215bd0cf38bf8f4848799"
+    },
+    {
+      "id": "ivory",
+      "name": "米白 / Ivory",
+      "hex": "#D9D9C9",
+      "reference": "fabrics/ivory.png",
+      "source": "Sheet1!F11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_65C13C5A98024A66A88C6884FCD1EC61",
+      "workbook_media": "xl/media/image2.png",
+      "sha256": "22ec2e121a6f09296745e6df988c513856de574fb33fad817dae24e7158eaf5e"
+    },
+    {
+      "id": "navy",
+      "name": "藏青 / Navy",
+      "hex": "#262642",
+      "reference": "fabrics/navy.png",
+      "source": "Sheet1!G11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_B0E79EED824648919ADC7F1F855D675C",
+      "workbook_media": "xl/media/image4.png",
+      "sha256": "3e29614c87021a9f8d77257dc9e8413e52c027284319780c75c991b41df6c3f5"
+    },
+    {
+      "id": "teal",
+      "name": "湖蓝 / Teal",
+      "hex": "#167F95",
+      "reference": "fabrics/teal.png",
+      "source": "Sheet1!H11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_2AC392B1C08F460C9A524C9BD6665452",
+      "workbook_media": "xl/media/image6.png",
+      "sha256": "782dc86d8f97bac13abdb3e3a74dd7343da0bd373f007d4af2e7ea2f5b3d2c9b"
+    },
+    {
+      "id": "black",
+      "name": "黑色 / Black",
+      "hex": "#262627",
+      "reference": "fabrics/black.png",
+      "source": "Sheet1!I11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_DCE16529157944A99A08DC2C37BB6814",
+      "workbook_media": "xl/media/image7.png",
+      "sha256": "669ea2b86db6203074b6b3472abc9d768a3903018469566ce3fbe0632bb04096"
+    },
+    {
+      "id": "green",
+      "name": "绿色 / Green",
+      "hex": "#2E7149",
+      "reference": "fabrics/green.png",
+      "source": "Sheet1!J11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_F03BD31BC38D45D09328D751F80C91B9",
+      "workbook_media": "xl/media/image8.png",
+      "sha256": "150f567ba67fd2b85faf258c08907a38eb6ea109ae9f0735fceaf15be49c88f9"
+    },
+    {
+      "id": "burgundy",
+      "name": "酒红 / Burgundy",
+      "hex": "#522333",
+      "reference": "fabrics/burgundy.png",
+      "source": "Sheet1!K11",
+      "reference_role": "color_and_fabric",
+      "image_id": "ID_F0888BB5E8964093891A793E3F32CF0B",
+      "workbook_media": "xl/media/image9.png",
+      "sha256": "0c1190b205c407354622981cec49b977da077ac116524b1a1313047713ace139"
+    },
+    {
+      "id": "white",
+      "name": "白色 / White",
+      "hex": "#F5F3EB",
+      "reference": "fabrics/white.png",
+      "source": "Sheet1!L11",
+      "reference_role": "color",
+      "image_id": "ID_64D9C21283964DEC8CC0825416011EA5",
+      "workbook_media": "xl/media/image11.png",
+      "sha256": "f07324a82bd551f8e0c556df55afebe63dc59f70a0b431a2d7cc095783bfebe3"
+    },
+    {
+      "id": "grey",
+      "name": "灰色 / Grey",
+      "hex": "#7B7A7C",
+      "reference": "fabrics/grey.png",
+      "source": "Sheet1!M11",
+      "reference_role": "color",
+      "image_id": "ID_12CC48ABAA544B63A50798DAF7C2ADD7",
+      "workbook_media": "xl/media/image12.png",
+      "sha256": "571864a1f4b8fd2e69c7ccb3b91ab500391012672dcd5482e898f633188c1a41"
+    },
+    {
+      "id": "red",
+      "name": "红色 / Red",
+      "hex": "#BD0925",
+      "reference": "fabrics/red.png",
+      "source": "Sheet1!N11",
+      "reference_role": "color",
+      "image_id": "ID_4DDA5620AC6144D18A6B6CC0F1D436CB",
+      "workbook_media": "xl/media/image13.png",
+      "sha256": "4dc98b9d9703d67ebc6c11a3cc00e9da39dd152de97d31f1b12291c41502bd04"
+    },
+    {
+      "id": "orange",
+      "name": "橙色 / Orange",
+      "hex": "#F6A352",
+      "reference": "fabrics/orange.png",
+      "source": "Sheet1!O11",
+      "reference_role": "color",
+      "image_id": "ID_7D852F36843342CA95D21B2543CC457C",
+      "workbook_media": "xl/media/image14.png",
+      "sha256": "2db08ab50cb97cf0884dd51ee4f828f292def620f2e7b7b2e49d45f690bc8e34"
+    }
+  ],
+  "provenance": {
+    "workbook": "敏感词成分.xlsx",
+    "workbook_sha256": "6c220d8b44aac7516880068e7f7f945d01df0e6f77f3b74041f870d6d696c8ba",
+    "compositions_range": "Sheet1!C4:C124",
+    "colors_range": "Sheet1!D11:O11",
+    "record_count": 121,
+    "swatch_note": "Hex values are approximate UI swatches; the original embedded photographs are the generation references."
+  }
+}
